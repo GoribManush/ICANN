@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "574132129758",
+    "firebase_url": "https://i-can-n.firebaseio.com",
+    "project_id": "i-can-n",
+    "storage_bucket": "i-can-n.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574132129758:android:1ce7120221bb4baf",
+        "android_client_info": {
+          "package_name": "co.feits.icann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574132129758-58t4kc3dlnsof7posgo5akaiv9r5b153.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPfM2HMQT3Vf21R3DIKKvjm76EzNFXr3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
